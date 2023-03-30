@@ -16,12 +16,20 @@ Congratulations!
 ##  My projects in private repositories
 <p>Click images to view the loom video. ❤💚💙 </p>
 <br>
-<div style="display: grid; grid-template-columns: 50% 50%;">
-  <a href="https://www.loom.com/share/28eb3f68d9344ec084d29f2e653b3fc0"><img src="./cryptitan.live.png" alt="dreamboat999" width="50%" /></a>
-<a href="https://www.loom.com/share/fc577d4a3518404888d4c9c8e98d02fc"><img src="./filemanager.png" alt="dreamboat999" width="50%" /></a>
-<a href="https://www.loom.com/share/1566ced838114e17b5a227ada682d9e9"><img src="./RealTimefeedback.jpg" alt="dreamboat999" width="50%" /></a>
-<a href="https://www.loom.com/share/a5f5773e824548a38729a5678d5ffe10"><img src="./talaqqi.png" alt="dreamboat999" width="50%" /></a>
-</div>
+<table>
+  <tr>
+    <td><a href="https://www.loom.com/share/28eb3f68d9344ec084d29f2e653b3fc0"><img  src="./cryptitan.live.png" alt="dreamboat999" width="100%" /></a></td>
+    <td><a href="https://www.loom.com/share/fc577d4a3518404888d4c9c8e98d02fc"><img  src="./filemanager.png" alt="dreamboat999" width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.loom.com/share/1566ced838114e17b5a227ada682d9e9"><img src="./RealTimefeedback.jpg" alt="dreamboat999" width="100%"  /></a></td>
+    <td><a href="https://www.loom.com/share/a5f5773e824548a38729a5678d5ffe10"><img  src="./talaqqi.png" alt="dreamboat999" width="100%" /></a></td>
+  </tr>
+  
+  
+  
+  
+</table>
 
 
 
