@@ -13,7 +13,7 @@ Congratulations!
 <img src="./github.png" alt="github" />
 <br>Cancel changes
 
-##  My projects in private repositories
+##  My best projects in private repositories
 <p>Click images to view the loom video. ❤💚💙 </p>
 <br>
 <table>
