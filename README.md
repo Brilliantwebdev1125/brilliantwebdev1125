@@ -9,8 +9,6 @@ phase of my career as a web developer. I'm passionate and ambitious about my wor
 be on a team that questions possibilities. I am looking for a new job opportunity in Full stack
 development. I will work harder with all my ability and knowledge for the company.
 Congratulations!
-
-<img src="./github.png" alt="github" />
 <br>
 
 ##  My best projects in private repositories
