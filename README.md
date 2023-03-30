@@ -11,7 +11,7 @@ development. I will work harder with all my ability and knowledge for the compan
 Congratulations!
 
 <img src="./github.png" alt="github" />
-<br>Cancel changes
+<br>
 
 ##  My best projects in private repositories
 <p>Click images to view the loom video. ❤💚💙 </p>
