@@ -11,8 +11,11 @@ development. I will work harder with all my ability and knowledge for the compan
 Congratulations!
 <br>
 
-
-<p><img align="right" src="https://github.com/dreamboat999/dreamboat999/blob/master/animation_500_kxa883sd.gif" alt="dreamboat999" width="30%" height="30%"/></p>
+##  My projects in private repositories
+<a href="https://www.loom.com/share/28eb3f68d9344ec084d29f2e653b3fc0"><img src="./cryptitan.live.png" alt="dreamboat999" width="50%" /></a>
+<a href="https://www.loom.com/share/fc577d4a3518404888d4c9c8e98d02fc"><img src="./filemanager.png" alt="dreamboat999" width="50%" /></a>
+<a href="[https://www.loom.com/share/6940b150eadd4e808ae2405b65dc6d88](https://www.loom.com/share/1566ced838114e17b5a227ada682d9e9)"><img src="./RealTimefeedback.jpg" alt="dreamboat999" width="50%" /></a>
+<a href="[https://www.loom.com/share/6940b150eadd4e808ae2405b65dc6d88](https://www.loom.com/share/a5f5773e824548a38729a5678d5ffe10)"><img src="./talaqqi.png" alt="dreamboat999" width="50%" /></a>
 
 
 
