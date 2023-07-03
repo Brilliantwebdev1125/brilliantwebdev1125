@@ -2,7 +2,7 @@
 
 ##  About Me
 
-I have been working as a Web Developer for 6 years in both Front-end and Back-end web
+I have been working as a Web Developer for 7 years in both Front-end and Back-end web
 development. Also I have good experience in Blockchain and solidity.
 As a problem solver who loves facing challenges in my work, I'm excited to be at the deployment
 phase of my career as a web developer. I'm passionate and ambitious about my work, and love to
